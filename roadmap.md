@@ -1,0 +1,4 @@
+- [ ] Create luxury brand styling and reusable storefront with distinct public routes.
+- [ ] Add seeded jewellery catalogue, product pages, cart, wishlist, checkout, and contact interactions with browser persistence.
+- [ ] Add demo admin login, dashboard, and persistent editable management modules.
+- [ ] Verify build, route coverage, core shopping flow, and mobile layout.

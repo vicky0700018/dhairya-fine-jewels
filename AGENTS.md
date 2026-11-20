@@ -28,3 +28,7 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+<!-- AGENT-MEMORY:BEGIN -->
+- Keep public pages as dedicated TanStack file routes backed by shared client-side demo data, so deep links and browser-persisted interactions work without a backend.
+<!-- AGENT-MEMORY:END -->
